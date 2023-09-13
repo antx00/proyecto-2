@@ -1,0 +1,25 @@
+.short-line {
+    width: 50px; /* Ajusta la longitud deseada */
+    border-width: 1px; /* Ajusta el grosor deseado */
+    border-color: #000; /* Cambia el color de la línea si es necesario */
+}
+
+hr{
+    border:1px;
+  }
+  .short-line {
+  width: 50px; /* Ajusta la longitud deseada */
+  border-width: 1px; /* Ajusta el grosor deseado */
+  border-color: #000; /* Cambia el color de la línea si es necesario */
+  margin: 0 auto;
+}
+div.btn-group {
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+div.btn-group:hover{
+  background-color: #0f0807;
+}
+
+  
